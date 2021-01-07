@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Roblox Games Blog",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "A Website started to help all roblox gamers who love to get thing for free or searching about new roblox games",
+    "siteUrl": "https://robloxgamesblog.netlify.app",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
     "twitterUsername": "@stackrole"
